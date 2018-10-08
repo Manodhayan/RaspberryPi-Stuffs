@@ -7,6 +7,8 @@ Complete post is available at http://rizwanansari.net/control-raspberry-pi-leds-
 
 Install bootle before runnig the script
 For Python 2.7
-```sudo pip install bottle```
+```sudo pip install bottle
+```
 For Python 3
-```sudo pip3 install bottle```
+```sudo pip3 install bottle
+```
