@@ -5,7 +5,7 @@ In this project, I’ll demonstrate controlling couple of LEDs connected to Rasp
 Complete post is available at http://rizwanansari.net/control-raspberry-pi-leds-from-web-and-mobile/
 
 
-Install bootle before runnig the script
+#Install bootle
 
 For Python 2.7
 ```
@@ -15,3 +15,8 @@ For Python 3
 ```
 sudo pip3 install bottle
 ```
+#Connection
+Refer Rpi GPIO Pin Configuration to find the GPIO pin number
+
+-Connect postive of red led in GPIO24 and yellow in GPIO23
+-Ground the both negative terminal to ground pin Rpi
