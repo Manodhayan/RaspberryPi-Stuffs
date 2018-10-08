@@ -15,7 +15,7 @@ For Python 3
 ```
 sudo pip3 install bottle
 ```
-#Connection
+# Connection
 Refer Rpi GPIO Pin Configuration to find the GPIO pin number
 
 - Connect postive of red led in GPIO24 and yellow in GPIO23
