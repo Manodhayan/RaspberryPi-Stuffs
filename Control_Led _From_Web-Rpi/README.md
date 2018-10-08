@@ -18,5 +18,5 @@ sudo pip3 install bottle
 #Connection
 Refer Rpi GPIO Pin Configuration to find the GPIO pin number
 
--Connect postive of red led in GPIO24 and yellow in GPIO23
--Ground the both negative terminal to ground pin Rpi
+- Connect postive of red led in GPIO24 and yellow in GPIO23
+- Ground the both negative terminal to ground pin Rpi
