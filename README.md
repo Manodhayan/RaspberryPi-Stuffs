@@ -5,4 +5,4 @@ Few cool projects you can do with your RaspberryPi
 - Telegram bot
 - Twitch bot
 - Twitter bot
--Open CV
+- Open CV
