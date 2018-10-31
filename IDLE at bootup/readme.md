@@ -1,4 +1,4 @@
-# Boot IDLE at Start
+# Run IDLE at Start
 For some cases, crontab,system md service and other alternatives fails to run your program.
 It may require some display environment .i.e need to run at python shell. When you run your script at terminal, your program just run in terminal itself.
 
