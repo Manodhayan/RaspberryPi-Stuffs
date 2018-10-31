@@ -22,6 +22,9 @@ or
 ```
 idle3 myprogram.py
 ```
+
+This will run your python idle and produce output on it.
+
 - Now I need to run this command at bootup. If you directly run this command at bootup. I ended up with same issue because you won't be able run idle when the system is booting up.
 - So, it should run IDLE after rasperry pi finishes its bootup process. Just like Chrome launches on Windows machine when we log in (If you preset this operation).
 
