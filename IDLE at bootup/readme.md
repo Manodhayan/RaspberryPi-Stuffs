@@ -50,3 +50,7 @@ Or if you want a terminal window also, for debugging:
 @lxterminal --command='sh /home/pi/launcher.sh'
 ```
 Paste both the lines, if you're not sure what you want.
+
+Save the file and Restart Raspberry pi.
+
+Have fun! You made it.
